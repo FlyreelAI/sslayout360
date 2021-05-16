@@ -3,8 +3,8 @@
 We provide the data splits for PanoContext, Stanford 2D-3D, and MatterportLayout used in our [CVPR 2021 paper](https://arxiv.org/abs/2103.13696) for semi-supervised indoor layout estimation. At this time, we are unable to release the training code and pretrained models.
 
 <p align="center">
-  <img src="assets/schematic.png" height="150" style="padding-right:50px" />
-  <img src="assets/sslayout.gif" height="150" /> 
+  <img src="assets/schematic.png" height="185" /> &emsp; &emsp;
+  <img src="assets/sslayout.gif" height="185" /> 
 </p>
 
 ## Data Download
@@ -53,7 +53,7 @@ To use [MatterportLayout](https://github.com/ericsujw/Matterport3DLayoutAnnotati
       --ann-root data/matterportlayout/label_data/ \
       --dataset data/matterportlayout/mp3d_test.txt \
       --split-name test --out-dir ./mp3d_layout
-```
+  ```
 
 * You should have an output `mp3d_layout` directory with the following structure.
 
