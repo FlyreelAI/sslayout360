@@ -3,8 +3,8 @@
 We provide the data splits for PanoContext, Stanford 2D-3D, and MatterportLayout used in our [CVPR 2021 paper](https://arxiv.org/abs/2103.13696) for semi-supervised indoor layout estimation. At this time, we are unable to release the training code and pretrained models.
 
 <p align="center">
-  <img src="assets/schematic.png" height="185" /> &emsp; &emsp;
-  <img src="assets/sslayout.gif" height="185" /> 
+  <img src="assets/schematic.png" height="150" /> &emsp; &emsp;
+  <img src="assets/sslayout.gif" height="150" /> 
 </p>
 
 ## Data Download
