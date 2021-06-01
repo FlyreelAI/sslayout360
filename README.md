@@ -83,7 +83,7 @@ This repository is released under the Apache-2.0 License. All datasets derived f
 ## Citation
 
 ```
-@inproceedings{tran-sslayout360,
+@inproceedings{TranSSLayout360,
   author={Phi Vu Tran},
   title="{SSLayout360: Semi-Supervised Indoor Layout Estimation from 360-Degree Panorama}",
   booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
